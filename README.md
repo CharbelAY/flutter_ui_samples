@@ -92,3 +92,9 @@ Properties:
         - example: fontSize: 20.0,
     - color 
         - example: color: Colors.white
+        
+### Stack:
+can stack multiple widgets on top of each other
+Properties:
+    - alignment specifies the stacked widgets base point for when you start adding margins to them to move them from being totally on top of each others
+        example: Alignment.center, 
